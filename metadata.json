@@ -1,0 +1,6 @@
+{
+  "name": "WhyNot Token",
+  "description": "Official website for WhyNot ($WHYNOT) token on TON and SOL. Features a Telegram mini-app, free VPN, built-in wallet, unlimited cloud storage, and AI bot ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
